@@ -1,0 +1,36 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    display:flex;
+    justify-content: center;
+
+}
+.recipe-container{
+    max-width:400px;
+    background-color: hsl(0, 0%, 100%) ;
+    padding:20px;
+    border-radius:20px;
+}
+
+.prep{
+    background-color: hsl(330, 100%, 98%);
+    padding: 10px;
+border-radius:10px;
+}
+.prep-title{
+    color:hsl(332,51%,32%);
+    font-weight:800;
+}
+h2{
+color: hsl(14,45%,36%);   
+}
+img{
+    border-radius:10px;
+}
+
+h1{
+    font-family: Outfit;
+src:url(./fonts/outfit/static/Outfit-SemiBold.ttf);
+}
+dt{
+    font-weight:600;
+}
